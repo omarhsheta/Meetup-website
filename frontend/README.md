@@ -1,4 +1,4 @@
-# meetup
+# Frontend component
 
 ## Project setup
 ```
